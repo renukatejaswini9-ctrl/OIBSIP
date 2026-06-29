@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background:black;
+    color:white;
+    line-height:1.8;
+}
+
+.hero{
+    text-align:center;
+    padding:80px 20px;
+}
+
+.hero h1{
+    font-size:60px;
+}
+
+.hero h3{
+    font-size:30px;
+    margin-top:10px;
+}
+
+.subtitle{
+    margin-top:10px;
+    color:#ccc;
+    font-size:20px;
+}
+
+.quote-section{
+    background:white;
+    color:black;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-wrap:wrap;
+    padding:50px 20px;
+}
+
+.quote{
+    width:45%;
+    min-width:300px;
+}
+
+.quote h2{
+    font-size:30px;
+}
+
+.image-box img{
+    width:300px;
+    border-radius:10px;
+}
+
+.biography,
+.achievements,
+.admire{
+    max-width:900px;
+    margin:auto;
+    padding:50px 20px;
+}
+
+.biography h2,
+.achievements h2,
+.admire h2{
+    margin-bottom:20px;
+    font-size:40px;
+}
+
+.achievements ul{
+    margin-left:20px;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    border-top:1px solid gray;
+}
