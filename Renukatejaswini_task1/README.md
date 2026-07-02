@@ -20,7 +20,7 @@ A simple calculator developed using HTML, CSS, and JavaScript that performs basi
 - JavaScript
 
 ### Live Demo
-https://renukatejaswini9-ctrl.github.io/OIBSIP/
+https://renukatejaswini9-ctrl.github.io/OIBSIP/RenukaTejaswini_task1/
 
 ### GitHub Repository
 https://github.com/renukatejaswini9-ctrl/OIBSIP
