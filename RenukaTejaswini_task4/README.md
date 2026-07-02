@@ -46,7 +46,7 @@ RenukaTejaswini_Task4
 
 ## 🚀 Live Demo
 
-https://renukatejaswini9-ctrl.github.io/OIBSIP/RenukaTejaswini_Task4/
+https://renukatejaswini9-ctrl.github.io/OIBSIP/RenukaTejaswini_task4/
 
 ---
 
